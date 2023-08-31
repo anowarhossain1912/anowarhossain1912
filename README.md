@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anowarhossain1912&show_icons=true&locale=en" alt="anowarhossain1912" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anowarhossain1912&" alt="anowarhossain1912" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
